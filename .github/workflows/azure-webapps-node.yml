@@ -1,8 +1,5 @@
 name: nodejs to azure wap
 on:
-  push:
-    branches:
-      - main
   workflow_dispatch:
 
 env:
